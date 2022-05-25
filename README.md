@@ -1,6 +1,8 @@
-# [MIAMI](https://vlad-demchuk.github.io/miami-landing/) landing page
+# Miami landing page
 
-- HTML
-- CSS (SCSS)
-- BEM
-- JavaScript
+- [DEMO LINK](https://vlad-demchuk.github.io/miami-landing/)
+
+- [Figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A2)
+
+- Tech stack: HTML5, SCSS, Flex-box, BEM, Saas;
+- Responsive design;
